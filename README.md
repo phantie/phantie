@@ -4,4 +4,4 @@
 
 Everybody says that. But I don't approve.
 
-![](https://phantie.com/api/endpoint_hits/github)
+![](https://phantie.site/api/endpoint_hits/github)
