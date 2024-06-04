@@ -13,7 +13,7 @@ Everybody says that. But I don't approve.\
 - [cryptr](https://github.com/phantie/cryptr) Simple cryptography implementations
 - [rs-raylib-game-examples](https://github.com/phantie/rs-raylib-game-examples) Examples of interactions with raylib via Rust
 #### Python
-- [ruption](https://github.com/phantie/ruption) Impl subset of Rust's Option/Result and utilities
+- [ruption](https://github.com/phantie/ruption) Impl subset of Rust's Option/Result and utilities with good type hinting
 - [contests](https://github.com/phantie/contests) More succinct syntax for testing of iterables
 - [overloaded](https://github.com/phantie/overloaded) Method and function signature overloading
 - [informative-disassembler](https://github.com/phantie/informative-disassembler) More informative disassembler of code
