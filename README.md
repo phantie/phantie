@@ -17,6 +17,7 @@ Everybody says that. But I don't approve.\
 - [contests](https://github.com/phantie/contests) More succinct syntax for testing of iterables
 - [overloaded](https://github.com/phantie/overloaded) Method and function signature overloading
 - [informative-disassembler](https://github.com/phantie/informative-disassembler) More informative disassembler of code
+- [dynamic_azure_logger_extension](https://github.com/phantie/dynamic_azure_logger_extension) Python logger extension with dynamic formatter templates and extensions for Azure Application Insights log filtering
 - [take](https://github.com/phantie/take) Call chaining Lisp style
 - [fastapi-ext](https://github.com/phantie/fastapi-ext) Some FastAPI utilities
 - [arity-based-calling](https://github.com/phantie/arity-based-calling) Method overloading based on argument number, cheaper version of Overloaded
