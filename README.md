@@ -14,9 +14,9 @@ Everybody says that. But I don't approve.\
 - [rs-raylib-game-examples](https://github.com/phantie/rs-raylib-game-examples) Examples of interactions with raylib via Rust
 #### Python
 - [pdf_util](https://github.com/phantie/pdf_util) Adobe Acrobat styled pdf document signing and other pdf utilities
-- [dynamic_azure_logger_extension](https://github.com/phantie/dynamic_azure_logger_extension) Python logger extension with dynamic formatter templates and extensions for Azure Application Insights log filtering
 - [contests](https://github.com/phantie/contests) Concise predicative testing of iterables
 - [informative-disassembler](https://github.com/phantie/informative-disassembler) More informative disassembler of code
+- [dynamic_azure_logger_extension](https://github.com/phantie/dynamic_azure_logger_extension) Python logger extension with dynamic formatter templates and extensions for Azure Application Insights log filtering
 - [ruption](https://github.com/phantie/ruption) Reliability utilities with good type hinting based on Rust's Option/Result
 - [overloaded](https://github.com/phantie/overloaded) Method and function signature overloading
 - [take](https://github.com/phantie/take) Call chaining Lisp style
