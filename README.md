@@ -16,7 +16,7 @@ Everybody says that. But I don't approve.\
 - [pdf_util](https://github.com/phantie/pdf_util) Adobe Acrobat styled pdf document signing and other pdf utilities
 - [dynamic_azure_logger_extension](https://github.com/phantie/dynamic_azure_logger_extension) Python logger extension with dynamic formatter templates and extensions for Azure Application Insights log filtering
 - [informative-disassembler](https://github.com/phantie/informative-disassembler) More informative disassembler of code
-- [contests](https://github.com/phantie/contests) More succinct syntax for testing of iterables
+- [contests](https://github.com/phantie/contests) More succinct syntax for predicative testing of iterables
 - [ruption](https://github.com/phantie/ruption) Reliability utilities with good type hinting based on Rust's Option/Result
 - [overloaded](https://github.com/phantie/overloaded) Method and function signature overloading
 - [take](https://github.com/phantie/take) Call chaining Lisp style
