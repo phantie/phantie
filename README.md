@@ -7,9 +7,9 @@ Everybody says that. But I don't approve.\
 ### Project list
 
 #### Rust
-- [wsite](https://github.com/phantie/wsite) Web app playground
 - [snake](https://github.com/phantie/snake) Browser multiplayer game (axum,yew,websockets)
 - [advent-of-code-2023](https://github.com/phantie/advent-of-code-2023) Solutions to AoC 2023
+- [wsite](https://github.com/phantie/wsite) Web app playground
 - [cryptr](https://github.com/phantie/cryptr) Simple cryptography implementations
 - [rs-raylib-game-examples](https://github.com/phantie/rs-raylib-game-examples) Examples of interactions with raylib via Rust
 #### Python
