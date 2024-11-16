@@ -7,7 +7,7 @@ Everybody says that. But I don't approve.\
 ### Project list
 
 #### Rust
-- [snake](https://github.com/phantie/snake) Browser multiplayer game (axum,yew,websockets)
+- [snake](https://github.com/phantie/snake) Multiplayer browser game on modern Rust stack
 - [advent-of-code-2023](https://github.com/phantie/advent-of-code-2023) Solutions to AoC 2023
 - [wsite](https://github.com/phantie/wsite) Web app playground
 - [cryptr](https://github.com/phantie/cryptr) Simple cryptography implementations
