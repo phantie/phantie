@@ -13,12 +13,12 @@ Everybody says that. But I don't approve.\
 - [cryptr](https://github.com/phantie/cryptr) Simple cryptography implementations
 - [rs-raylib-game-examples](https://github.com/phantie/rs-raylib-game-examples) Examples of interactions with raylib via Rust
 #### Python
-- [ruption](https://github.com/phantie/ruption) Reliability utilities with good type hinting based on Rust's Option/Result
 - [contests](https://github.com/phantie/contests) More succinct syntax for testing of iterables
 - [pdf_util](https://github.com/phantie/pdf_util) Adobe Acrobat styled pdf document signing and other pdf utilities
 - [dynamic_azure_logger_extension](https://github.com/phantie/dynamic_azure_logger_extension) Python logger extension with dynamic formatter templates and extensions for Azure Application Insights log filtering
 - [overloaded](https://github.com/phantie/overloaded) Method and function signature overloading
 - [informative-disassembler](https://github.com/phantie/informative-disassembler) More informative disassembler of code
+- [ruption](https://github.com/phantie/ruption) Reliability utilities with good type hinting based on Rust's Option/Result
 - [take](https://github.com/phantie/take) Call chaining Lisp style
 - [fastapi-ext](https://github.com/phantie/fastapi-ext) Some FastAPI utilities
 - [arity-based-calling](https://github.com/phantie/arity-based-calling) Method overloading based on argument number, cheaper version of Overloaded
