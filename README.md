@@ -27,29 +27,29 @@
    - **Description**: Overloading of functions and methods (including static- and classmethods). Supports complex type hinting. Does not modify original functions, classes and methods.  
    - **Repository**: [https://github.com/phantie/overloaded](https://github.com/phantie/overloaded)
 
-4. **ruption**  
-   - **Description**: Reliability utilities with good type hinting based on Rust's Option/Result  
-   - **Repository**: [https://github.com/phantie/ruption](https://github.com/phantie/ruption)
-
-5. **yield-self**  
+4. **yield-self**  
    - **Description**: yield-self decorator forces classmethods, staticmethods and normal methods return a class/instance they are called on  
    - **Repository**: [https://github.com/phantie/yield-self](https://github.com/phantie/yield-self)
 
-6. **take**  
+5. **take**  
    - **Description**: Execute methods even if they do not return the object they are bound to, set attributes and execute functions over stored objects in one line  
    - **Repository**: [https://github.com/phantie/take](https://github.com/phantie/take)
 
 ### Data Structures
 
-1. **mutable-string**  
+1. **ruption**  
+   - **Description**: Reliability utilities with good type hinting based on Rust's Option/Result  
+   - **Repository**: [https://github.com/phantie/ruption](https://github.com/phantie/ruption)
+
+2. **mutable-string**  
    - **Description**: Mutable, change-friendly, feature-rich String.  
    - **Repository**: [https://github.com/phantie/mutable-string](https://github.com/phantie/mutable-string)
 
-2. **cache-lru_cache**  
+3. **cache-lru_cache**  
    - **Description**: reimplemented & extended lru_cache  
    - **Repository**: [https://github.com/phantie/cache-lru_cache](https://github.com/phantie/cache-lru_cache)
 
-3. **bound-sized-hash-map**  
+4. **bound-sized-hash-map**  
    - **Description**: Dictionary restricted in growth, FIFO  
    - **Repository**: [https://github.com/phantie/bound-sized-hash-map](https://github.com/phantie/bound-sized-hash-map)
 
