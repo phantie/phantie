@@ -4,6 +4,42 @@
 
 # Open-Sourced Projects
 
+## Rust
+
+### Web Development
+
+1. **personal-website-source-code**  
+   - **Description**: Personal website source code: [https://phantie.dev](https://phantie.dev)  
+   - **Repository**: [https://github.com/phantie/personal-website-source-code](https://github.com/phantie/personal-website-source-code)
+
+2. **snake**  
+   - **Description**: Singleplayer/multiplayer browser game on modern Rust stack and Websockets  
+   - **Repository**: [https://github.com/phantie/snake](https://github.com/phantie/snake)
+
+3. **wsite**  
+   - **Description**: Full stack website in Rust (old blog site in Yew)  
+   - **Repository**: [https://github.com/phantie/wsite](https://github.com/phantie/wsite)
+
+### Competitions
+
+1. **advent-of-code-2023**  
+   - **Description**: Advent of Code 2023 in Rust, 2 stars for days from 1 to 18.  
+   - **Repository**: [https://github.com/phantie/advent-of-code-2023](https://github.com/phantie/advent-of-code-2023)
+
+### Etc
+
+1. **ow_matchmaking_queue**  
+   - **Description**: Implementation of a matchmaking queue  
+   - **Repository**: [https://github.com/phantie/ow_matchmaking_queue](https://github.com/phantie/ow_matchmaking_queue)
+
+2. **con**  
+   - **Description**: Exploratory project, with aim to define limits of using semantic connections between objects in systems.  
+   - **Repository**: [https://github.com/phantie/con](https://github.com/phantie/con)
+
+3. **rs-raylib-game-examples**  
+   - **Description**: raylib examples reimplemented in Rust  
+   - **Repository**: [https://github.com/phantie/rs-raylib-game-examples](https://github.com/phantie/rs-raylib-game-examples)
+
 ## Python
 
 ### Frameworks
@@ -52,43 +88,6 @@
 4. **bound-sized-hash-map**  
    - **Description**: Dictionary restricted in growth, FIFO  
    - **Repository**: [https://github.com/phantie/bound-sized-hash-map](https://github.com/phantie/bound-sized-hash-map)
-
-## Rust
-
-### Web Development
-
-1. **personal-website-source-code**  
-   - **Description**: Personal website source code: [https://phantie.dev](https://phantie.dev)  
-   - **Repository**: [https://github.com/phantie/personal-website-source-code](https://github.com/phantie/personal-website-source-code)
-
-2. **snake**  
-   - **Description**: Singleplayer/multiplayer browser game on modern Rust stack and Websockets  
-   - **Repository**: [https://github.com/phantie/snake](https://github.com/phantie/snake)
-
-3. **wsite**  
-   - **Description**: Full stack website in Rust (old blog site in Yew)  
-   - **Repository**: [https://github.com/phantie/wsite](https://github.com/phantie/wsite)
-
-### Competitions
-
-1. **advent-of-code-2023**  
-   - **Description**: Advent of Code 2023 in Rust, 2 stars for days from 1 to 18.  
-   - **Repository**: [https://github.com/phantie/advent-of-code-2023](https://github.com/phantie/advent-of-code-2023)
-
-### Etc
-
-1. **ow_matchmaking_queue**  
-   - **Description**: Implementation of a matchmaking queue  
-   - **Repository**: [https://github.com/phantie/ow_matchmaking_queue](https://github.com/phantie/ow_matchmaking_queue)
-
-2. **con**  
-   - **Description**: Exploratory project, with aim to define limits of using semantic connections between objects in systems.  
-   - **Repository**: [https://github.com/phantie/con](https://github.com/phantie/con)
-
-3. **rs-raylib-game-examples**  
-   - **Description**: raylib examples reimplemented in Rust  
-   - **Repository**: [https://github.com/phantie/rs-raylib-game-examples](https://github.com/phantie/rs-raylib-game-examples)
-
 ## Articles additions
 
 1. **python_io_parallel_processing_article**  
