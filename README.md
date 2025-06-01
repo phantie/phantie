@@ -97,5 +97,5 @@
 ## Research sources
 
 1. **ukrainian-bot-numbers-database**
-   - **Description**: База даних українських бот номерів (скамів).
+   - **Description**: База даних українських бот номерів (скамів) / Database of Ukrainian scam bot numbers
    - **Repository**: https://github.com/phantie/ukrainian-bot-numbers-database
