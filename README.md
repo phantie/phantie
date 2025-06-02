@@ -28,15 +28,16 @@
 
 ### Etc
 
-1. **ow_matchmaking_queue**  
+<!--- 1. **ow_matchmaking_queue**  
    - **Description**: Implementation of a matchmaking queue  
    - **Repository**: [https://github.com/phantie/ow_matchmaking_queue](https://github.com/phantie/ow_matchmaking_queue)
 
 2. **con**  
    - **Description**: Exploratory project, with aim to define limits of using semantic connections between objects in systems.  
    - **Repository**: [https://github.com/phantie/con](https://github.com/phantie/con)
+-->
 
-3. **rs-raylib-game-examples**  
+1. **rs-raylib-game-examples**  
    - **Description**: raylib examples reimplemented in Rust  
    - **Repository**: [https://github.com/phantie/rs-raylib-game-examples](https://github.com/phantie/rs-raylib-game-examples)
 
