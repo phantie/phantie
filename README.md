@@ -6,7 +6,7 @@
 
 ## Rust
 
-### Web Development
+### Full Stack Web Development
 
 1. **personal-website-source-code**  
    - **Description**: Personal website source code: [https://phantie.dev](https://phantie.dev)  
