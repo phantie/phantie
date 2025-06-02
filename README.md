@@ -2,7 +2,7 @@
 
 [https://phantie.dev](https://phantie.dev)
 
-# Open-Sourced Projects
+# Worthy Open-Source Projects to List Here
 
 ## Rust
 
