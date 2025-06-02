@@ -13,7 +13,7 @@
    - **Repository**: [https://github.com/phantie/personal-website-source-code](https://github.com/phantie/personal-website-source-code)
 
 2. **snake**  
-   - **Description**: Singleplayer/multiplayer browser game on modern Rust stack and Websockets  
+   - **Description**: Singleplayer/Multiplayer browser game on modern Rust stack (Yew, Axum) and WebSocket
    - **Repository**: [https://github.com/phantie/snake](https://github.com/phantie/snake)
 
 3. **wsite**  
