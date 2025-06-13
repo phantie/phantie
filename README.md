@@ -95,3 +95,8 @@
 1. **python_io_parallel_processing_article**  
    - **Description**: Article about parallel processing in python using asyncio, showing the common pitfalls and handling strategies  
    - **Repository**: [https://github.com/phantie/python_io_parallel_processing_article](https://github.com/phantie/python_io_parallel_processing_article)
+
+2. **inventing_a_better_compression_algorithm_for_a_specific_problem**
+   - **Description**: An article about how to leverage domain knowledge to invent spectacular data compression algorithms
+   - **Repository**: [https://github.com/phantie/inventing_a_better_compression_algorithm_for_a_specific_problem](https://github.com/phantie/inventing_a_better_compression_algorithm_for_a_specific_problem)
+
