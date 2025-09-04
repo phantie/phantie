@@ -50,25 +50,29 @@
    - **Repository**: [https://github.com/phantie/multilayer-cache](https://github.com/phantie/multilayer-cache)
    - **Article**: [https://phantie.dev/articles/multilayer_cache](https://phantie.dev/articles/multilayer_cache)
 
-### "Python Magic"
+### "Python Magic/Utils"
 
 1. **informative-disassembler**  
    - **Description**: Reimplementation of dis.dis with enhanced informativity  
    - **Repository**: [https://github.com/phantie/informative-disassembler](https://github.com/phantie/informative-disassembler)
 
 2. **contests**  
-   - **Description**: Concise predicative testing of iterables  
+   - **Description**: Concise predicative testing of iterables
    - **Repository**: [https://github.com/phantie/contests](https://github.com/phantie/contests)
 
-3. **overloaded**  
+3. **pdf_util**  
+   - **Description**: Adobe Acrobat styled pdf document signing and other pdf utilities
+   - **Repository**: [https://github.com/phantie/pdf_util](https://github.com/phantie/pdf_util)
+
+4. **overloaded**  
    - **Description**: Overloading of functions and methods (including static- and classmethods). Supports complex type hinting. Does not modify original functions, classes and methods.  
    - **Repository**: [https://github.com/phantie/overloaded](https://github.com/phantie/overloaded)
 
-4. **yield-self**  
+5. **yield-self**  
    - **Description**: yield-self decorator forces classmethods, staticmethods and normal methods return a class/instance they are called on  
    - **Repository**: [https://github.com/phantie/yield-self](https://github.com/phantie/yield-self)
 
-5. **take**  
+6. **take**  
    - **Description**: Execute methods even if they do not return the object they are bound to, set attributes and execute functions over stored objects in one line  
    - **Repository**: [https://github.com/phantie/take](https://github.com/phantie/take)
 
