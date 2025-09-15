@@ -53,7 +53,7 @@
 ### "Python Magic/Utils"
 
 1. **pipe-forward**
-   - **Description**: A tiny functional composition utility for Python. It allows you to create pipelines of functions using the `|` operator. Like `|>` (pipe forward) operator in #F sharp.  
+   - **Description**: A tiny functional composition utility for Python. It allows you to create pipelines of functions using the `|` operator. Similar to |> (pipe forward) operator in #F
    - **Repository**: [https://github.com/phantie/pipe-forward](https://github.com/phantie/pipe-forward)
 
 2. **informative-disassembler**  
