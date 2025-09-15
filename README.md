@@ -52,27 +52,31 @@
 
 ### "Python Magic/Utils"
 
-1. **informative-disassembler**  
+1. **pipe-forward**
+   - **Description**: A tiny functional composition utility for Python. It allows you to create pipelines of functions using the `|` operator. Like `|>` (pipe forward) operator in #F sharp.  
+   - **Repository**: [https://github.com/phantie/pipe-forward](https://github.com/phantie/pipe-forward)
+
+2. **informative-disassembler**  
    - **Description**: Reimplementation of dis.dis with enhanced informativity  
    - **Repository**: [https://github.com/phantie/informative-disassembler](https://github.com/phantie/informative-disassembler)
 
-2. **contests**  
+3. **contests**  
    - **Description**: Concise predicative testing of iterables
    - **Repository**: [https://github.com/phantie/contests](https://github.com/phantie/contests)
 
-3. **pdf_util**  
+4. **pdf_util**  
    - **Description**: Adobe Acrobat styled pdf document signing and other pdf utilities
    - **Repository**: [https://github.com/phantie/pdf_util](https://github.com/phantie/pdf_util)
 
-4. **overloaded**  
+5. **overloaded**  
    - **Description**: Overloading of functions and methods (including static- and classmethods). Supports complex type hinting. Does not modify original functions, classes and methods.  
    - **Repository**: [https://github.com/phantie/overloaded](https://github.com/phantie/overloaded)
 
-5. **yield-self**  
+6. **yield-self**  
    - **Description**: yield-self decorator forces classmethods, staticmethods and normal methods return a class/instance they are called on  
    - **Repository**: [https://github.com/phantie/yield-self](https://github.com/phantie/yield-self)
 
-6. **take**  
+7. **take**  
    - **Description**: Execute methods even if they do not return the object they are bound to, set attributes and execute functions over stored objects in one line  
    - **Repository**: [https://github.com/phantie/take](https://github.com/phantie/take)
 
